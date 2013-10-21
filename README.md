@@ -2,3 +2,19 @@ Hello Cobol!
 ============
 
 Cobol projects! Yeah... :-)
+
+## Hello World
+
+```cbl
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. HELLO.
+       ENVIRONMENT DIVISION.
+       DATA DIVISION.
+       PROCEDURE DIVISION.
+
+       PROGRAM-BEGIN.
+           DISPLAY "Hello world".
+
+       PROGRAM-DONE.
+           STOP RUN.
+```
