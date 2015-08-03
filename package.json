@@ -1,0 +1,32 @@
+{
+  "name": "cobol",
+  "version": "1.0.0",
+  "description": "A bridge between COBOL and Node.JS which allows you to run COBOL code from Node.JS.",
+  "main": "lib/index.js",
+  "directories": {
+    "example": "example"
+  },
+  "dependencies": {
+    "sliced": "^1.0.1",
+    "oargv": "^2.0.0",
+    "one-by-one": "^2.0.0",
+    "tmp": "^0.0.26",
+    "which": "^1.1.1",
+    "ul": "^5.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "node-cobol"
+  },
+  "keywords": [
+    "cobol",
+    "node",
+    "bridge"
+  ],
+  "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "license": "KINDLY"
+}
