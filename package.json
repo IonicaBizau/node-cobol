@@ -28,5 +28,8 @@
     "bridge"
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
-  "license": "KINDLY"
+  "license": "KINDLY",
+  "blah": {
+    "h_img": "http://i.imgur.com/xR0QhTk.png"
+  }
 }
