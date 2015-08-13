@@ -1,7 +1,7 @@
 {
   "name": "cobol",
   "version": "1.0.0",
-  "description": "A bridge between COBOL and Node.JS which allows you to run COBOL code from Node.JS.",
+  "description": "COBOL bridge for NodeJS which allows you to run COBOL code from NodeJS.",
   "main": "lib/index.js",
   "directories": {
     "example": "example"
@@ -30,6 +30,6 @@
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
   "license": "KINDLY",
   "blah": {
-    "h_img": "http://i.imgur.com/xR0QhTk.png"
+    "h_img": "http://i.imgur.com/DutRzDr.png"
   }
 }
