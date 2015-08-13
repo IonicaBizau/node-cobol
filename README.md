@@ -109,7 +109,10 @@ Cobol(function () { /*
         console.log(err);
     }
 });
-// => "Hello World"
+// => Write something and then press the <Enter> key
+// <= Hi there!
+// => You wrote: Hi there!
+// => ------------
 
 ```
 
