@@ -6,14 +6,6 @@
   "directories": {
     "example": "example"
   },
-  "dependencies": {
-    "sliced": "^1.0.1",
-    "oargv": "^2.0.0",
-    "one-by-one": "^2.0.0",
-    "tmp": "^0.0.26",
-    "which": "^1.1.1",
-    "ul": "^5.0.0"
-  },
   "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -31,5 +23,13 @@
   "license": "KINDLY",
   "blah": {
     "h_img": "http://i.imgur.com/DutRzDr.png"
+  },
+  "dependencies": {
+    "oargv": "^2.0.0",
+    "one-by-one": "^2.0.0",
+    "sliced": "^1.0.1",
+    "tmp": "^0.0.26",
+    "ul": "^5.0.0",
+    "which": "^1.1.1"
   }
 }
