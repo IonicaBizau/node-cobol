@@ -42,7 +42,7 @@ $ npm i cobol
 
 This project seems to more popular than I expected. :smile: If you wrote or found an article about this project which is not added in this list, [add it][contributing].
 
- - [Calling 1959 from your Web code: A COBOL bridge for Node.js](http://arstechnica.com/information-technology/2015/08/calling-1959-from-your-web-code-a-cobol-bridge-for-node-js/) ([ArsTechnica](http://arstechnica.com/), by Sean Gallagher)
+ - [Calling 1959 from your Web code: A COBOL bridge for Node.js](http://arstechnica.com/information-technology/2015/08/calling-1959-from-your-web-code-a-cobol-bridge-for-node-js/) ([ArsTechnica](http://arstechnica.com/), by [Sean Gallagher](http://arstechnica.com/author/sean-gallagher/))
  - [Cobol -- yes, Cobol -- gets a bridge to Node.js](http://www.infoworld.com/article/2972314/application-development/cobol-nodejs-bridge.html) ([InfoWorld](http://www.infoworld.com/), by [Paul Krill](http://www.infoworld.com/author/Paul-Krill/))
 
 ## Example
