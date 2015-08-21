@@ -47,6 +47,7 @@ This project seems to more popular than I expected. :smile: If you wrote or foun
  - [Ein COBOL-Plug-in für Node.js](http://www.heise.de/newsticker/meldung/Ein-COBOL-Plug-in-fuer-Node-js-2783225.html) ([Heise Online](http://heise.de), by [Alexander Neumann](http://www.heise.de/ix/editors/ix_redakteur_907177.html))
  - [Dit krijg je als je Node.js met COBOL kruist](http://webwereld.nl/open-source/88040-dit-krijg-je-als-je-node-js-met-cobol-kruist) ([Webwereld](http://webwereld.nl/), by [Chris Koenis](http://webwereld.nl/auteur/chris-koenis))
  - [COBOL for Node.js](http://www.i-programmer.info/news/98-languages/8904-cobol-for-nodejs.html) ([I Programmer](http://www.i-programmer.info/), by [Kay Ewbank](https://twitter.com/KayEwbank))
+ - [Nagyon durva: Már COBOL-ból is lehet programozni a Node.js-t](http://prog.hu/hirek/4012/nagyon-durva-mar-cobol-bol-is-lehet-programozni-a-node-js-t) ([prog.hu](http://prog.hu/), by [Sting](http://prog.hu/azonosito/info/Sting?pop=1))
 
 ## Example
 
