@@ -78,8 +78,6 @@ var Q = require('q');
 var helloWorld1 = Cobol(function () { /*
        IDENTIFICATION DIVISION.
        PROGRAM-ID. HELLO.
-       ENVIRONMENT DIVISION.
-       DATA DIVISION.
        PROCEDURE DIVISION.
 
        PROGRAM-BEGIN.
@@ -92,8 +90,6 @@ var helloWorld1 = Cobol(function () { /*
 var helloWorld2 = Cobol(function () { /*
        IDENTIFICATION DIVISION.
        PROGRAM-ID. HELLO.
-       ENVIRONMENT DIVISION.
-       DATA DIVISION.
        PROCEDURE DIVISION.
 
        PROGRAM-BEGIN.
@@ -103,10 +99,8 @@ var helloWorld2 = Cobol(function () { /*
        STOP RUN.
  */ });
 
-console.log("no elo");
 Q.all([helloWorld1, helloWorld2]).then(function (res) {
- console.log(a);
- console.log(b);
-}).catch(function(res) {
  console.log(res);
+}).catch(function(err) {
+ console.log(err);
 });
