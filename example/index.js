@@ -100,7 +100,8 @@ var helloWorld2 = Cobol(function () { /*
  */ });
 
 Q.all([helloWorld1, helloWorld2]).then(function (res) {
- console.log(res); //prints [ 'Hello world', 'Hello world second time!' ]
+    console.log(res);
 }).catch(function(err) {
- console.log("Something bad happened!" + err);
+    console.log("Something bad happened!" + err);
 });
+// => [ 'Hello world', 'Hello world second time!' ]
