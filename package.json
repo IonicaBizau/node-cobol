@@ -20,6 +20,9 @@
     "bridge"
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "contributors": [
+    "Krzysztof Kaczor <krzkaczor@gmail.com> (http://krzkaczor.github.io/)"
+  ],
   "license": "KINDLY",
   "blah": {
     "h_img": "http://i.imgur.com/DutRzDr.png"
@@ -27,6 +30,7 @@
   "dependencies": {
     "oargv": "^2.0.0",
     "one-by-one": "^2.0.0",
+    "q": "^1.4.1",
     "sliced": "^1.0.1",
     "tmp": "^0.0.26",
     "ul": "^5.0.0",

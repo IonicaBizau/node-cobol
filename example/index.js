@@ -71,3 +71,37 @@ Cobol(function () { /*
 // <= Hi there!
 // => You wrote: Hi there!
 // => ------------
+
+//you can also use our promise based API
+
+var Q = require('q');
+var helloWorld1 = Cobol(function () { /*
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. HELLO.
+       PROCEDURE DIVISION.
+
+       PROGRAM-BEGIN.
+       DISPLAY "Hello world".
+
+       PROGRAM-DONE.
+       STOP RUN.
+ */ });
+
+var helloWorld2 = Cobol(function () { /*
+       IDENTIFICATION DIVISION.
+       PROGRAM-ID. HELLO.
+       PROCEDURE DIVISION.
+
+       PROGRAM-BEGIN.
+       DISPLAY "Hello world second time!".
+
+       PROGRAM-DONE.
+       STOP RUN.
+ */ });
+
+Q.all([helloWorld1, helloWorld2]).then(function (res) {
+    console.log(res);
+}).catch(function(err) {
+    console.log("Something bad happened!" + err);
+});
+// => [ 'Hello world', 'Hello world second time!' ]
