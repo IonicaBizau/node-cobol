@@ -26,7 +26,6 @@ Cobol(__dirname + "/args.cbl", {
 });
 // => "Your name is: Alice"
 
-
 // This will read data from stdin
 Cobol(function () { /*
        IDENTIFICATION DIVISION.
