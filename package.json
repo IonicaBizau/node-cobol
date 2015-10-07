@@ -16,6 +16,9 @@
     "bridge"
   ],
   "author": "Ionică Bizău <bizauionica@gmail.com> (http://ionicabizau.net)",
+  "contributors": [
+    "Krzysztof Kaczor <krzkaczor@gmail.com> (http://kaczor.io)"
+  ],
   "license": "KINDLY",
   "blah": {
     "h_img": "http://i.imgur.com/DutRzDr.png"
