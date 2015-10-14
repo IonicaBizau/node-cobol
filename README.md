@@ -50,6 +50,7 @@ This project seems to more popular than I expected. :smile: If you wrote or foun
  - [Nagyon durva: Már COBOL-ból is lehet programozni a Node.js-t](http://prog.hu/hirek/4012/nagyon-durva-mar-cobol-bol-is-lehet-programozni-a-node-js-t) ([prog.hu](http://prog.hu/), by [Sting](http://prog.hu/azonosito/info/Sting?pop=1))
  - [Micro Focus Updates COBOL for Visual Studio 2015](http://www.eweek.com/developer/micro-focus-updates-cobol-for-visual-studio-2015.html) ([eWeek](http://eweek.com/), by [Darryl K. Taft](http://www.eweek.com/cp/bio/Darryl-K.-Taft/))
  - [Sur GitHub, un projet relie Cobol et Node.js](http://www.lemondeinformatique.fr/actualites/lire-sur-github-un-projet-relie-cobol-et-nodejs-62116.html) ([LeMondeInformatique](http://lemondeinformatique.fr/), by [Maryse Gros avec IDG News Service](mailto:redac_weblmi@it-news-info.com))
+ - [3 open source projects for modern COBOL development](http://opensource.com/life/15/10/open-source-cobol-development) ([OpenSource.com](http://opensource.com/), by [Joshua Allen Holm](http://opensource.com/users/holmja))
 
 ## Example
 
