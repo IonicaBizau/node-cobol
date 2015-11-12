@@ -1,6 +1,7 @@
 [![cobol](http://i.imgur.com/DutRzDr.png)](#)
 
 # cobol [![Support this project][donate-now]][paypal-donations]
+
 COBOL bridge for NodeJS which allows you to run COBOL code from NodeJS.
 
 ## Can I use this on production?
@@ -142,7 +143,7 @@ If you are using this library in one of your projects, add it in this list. :spa
 
 [KINDLY][license] © [Ionică Bizău][website]
 
-[license]: http://ionicabizau.github.io/kindly-license/?author=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica@gmail.com%3E&year=2015
+[license]: http://ionicabizau.github.io/kindly-license/?author=Ionic%C4%83%20Biz%C4%83u%20%3Cbizauionica@gmail.com%3E&year=2013
 
 [website]: http://ionicabizau.net
 [paypal-donations]: https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=RVXDDLKKLQRJW
