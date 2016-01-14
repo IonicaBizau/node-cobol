@@ -1,8 +1,8 @@
 [![cobol](http://i.imgur.com/DutRzDr.png)](#)
 
-# cobol [![Support this project][donate-now]][paypal-donations]
+# cobol [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/cobol.svg)](https://www.npmjs.com/package/cobol) [![Downloads](https://img.shields.io/npm/dt/cobol.svg)](https://www.npmjs.com/package/cobol) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
 
-COBOL bridge for NodeJS which allows you to run COBOL code from NodeJS.
+> COBOL bridge for NodeJS which allows you to run COBOL code from NodeJS.
 
 ## Can I use this on production?
 
