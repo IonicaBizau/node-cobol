@@ -1,6 +1,6 @@
 {
   "name": "cobol",
-  "version": "1.5.1",
+  "version": "1.5.2",
   "description": "COBOL bridge for NodeJS which allows you to run COBOL code from NodeJS.",
   "main": "lib/index.js",
   "directories": {
@@ -91,5 +91,16 @@
   "bugs": {
     "url": "https://github.com/IonicaBizau/node-cobol/issues"
   },
-  "homepage": "https://github.com/IonicaBizau/node-cobol"
+  "homepage": "https://github.com/IonicaBizau/node-cobol",
+  "files": [
+    "bin/",
+    "app/",
+    "lib/",
+    "dist/",
+    "src/",
+    "resources/",
+    "menu/",
+    "cli.js",
+    "index.js"
+  ]
 }
