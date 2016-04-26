@@ -1,3 +1,4 @@
+
 [![cobol](http://i.imgur.com/DutRzDr.png)](#)
 
 # cobol [![PayPal](https://img.shields.io/badge/%24-paypal-f39c12.svg)][paypal-donations] [![Version](https://img.shields.io/npm/v/cobol.svg)](https://www.npmjs.com/package/cobol) [![Downloads](https://img.shields.io/npm/dt/cobol.svg)](https://www.npmjs.com/package/cobol) [![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/johnnyb?utm_source=github&utm_medium=button&utm_term=johnnyb&utm_campaign=github)
@@ -7,6 +8,7 @@
 ## Can I use this on production?
 
 Of course, you can! It's production ready! If you ever did such a thing, [ping me (@IonicaBizau)](https://twitter.com/IonicaBizau). :boom: :dizzy:
+
 
 ## Installation
 
@@ -24,7 +26,9 @@ Then, install the `cobol` package.
 $ npm i cobol
 ```
 
-## Example
+## :clipboard: Example
+
+
 
 ```js
 // Dependencies
@@ -101,7 +105,8 @@ Cobol(function () { /*
 // => ------------
 ```
 
-## Documentation
+## :memo: Documentation
+
 
 ### `Cobol(input, options, callback)`
 Runs COBOL code from Node.JS side.
@@ -117,9 +122,12 @@ Runs COBOL code from Node.JS side.
  - `stdeout` (Stream): An optional stdout stream used to pipe data to the stdin stream of the COBOL process.
 - **Function** `callback`: The callback function called with `err`, `stdout` and `stderr`.
 
-## Press Highlights
+
+
+## :newspaper: Press Highlights
 
 This project seems to more popular than I expected. :smile: If you wrote or found an article about this project which is not added in this list, [add it][contributing].
+
 
  - [Calling 1959 from your Web code: A COBOL bridge for Node.js](http://arstechnica.com/information-technology/2015/08/calling-1959-from-your-web-code-a-cobol-bridge-for-node-js/) ([ArsTechnica](http://arstechnica.com/), by [Sean Gallagher](http://arstechnica.com/author/sean-gallagher/))
  - [Cobol -- yes, Cobol -- gets a bridge to Node.js](http://www.infoworld.com/article/2972314/application-development/cobol-nodejs-bridge.html) ([InfoWorld](http://www.infoworld.com/), by [Paul Krill](http://www.infoworld.com/author/Paul-Krill/))
@@ -131,15 +139,17 @@ This project seems to more popular than I expected. :smile: If you wrote or foun
  - [Sur GitHub, un projet relie Cobol et Node.js](http://www.lemondeinformatique.fr/actualites/lire-sur-github-un-projet-relie-cobol-et-nodejs-62116.html) ([LeMondeInformatique](http://lemondeinformatique.fr/), by [Maryse Gros avec IDG News Service](mailto:redac_weblmi@it-news-info.com))
  - [3 open source projects for modern COBOL development](http://opensource.com/life/15/10/open-source-cobol-development) ([OpenSource.com](http://opensource.com/), by [Joshua Allen Holm](http://opensource.com/users/holmja))
 
-## How to contribute
+
+## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
-## Where is this library used?
+## :dizzy: Where is this library used?
 If you are using this library in one of your projects, add it in this list. :sparkles:
 
- - [`cobol-promises`](https://github.com/IonicaBizau/node-cobol-promises)
 
-## License
+ - [`cobol-promises`](https://github.com/IonicaBizau/node-cobol-promises)—COBOL bridge for NodeJS with promises support.
+
+## :scroll: License
 
 [MIT][license] © [Ionică Bizău][website]
 
