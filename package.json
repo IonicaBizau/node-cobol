@@ -74,7 +74,8 @@
           "[3 open source projects for modern COBOL development](http://opensource.com/life/15/10/open-source-cobol-development) ([OpenSource.com](http://opensource.com/), by [Joshua Allen Holm](http://opensource.com/users/holmja))"
         ]
       }
-    ]
+    ],
+    "related": ["node.cobol"]
   },
   "dependencies": {
     "oargv": "^2.0.0",
