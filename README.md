@@ -109,6 +109,7 @@ Cobol(function () { /*
 
 ## :memo: Documentation
 
+
 ### `Cobol(input, options, callback)`
 Runs COBOL code from Node.JS side.
 
