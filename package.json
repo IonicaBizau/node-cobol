@@ -76,7 +76,9 @@
       }
     ],
     "related": [
-      "node.cobol"
+      "node.cobol",
+      "fortran",
+      "node.fortran"
     ]
   },
   "dependencies": {

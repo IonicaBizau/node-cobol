@@ -150,9 +150,12 @@ If you are using this library in one of your projects, add it in this list. :spa
 
 
  - [`cobol-promises`](https://github.com/IonicaBizau/node-cobol-promises)—COBOL bridge for NodeJS with promises support.
+
 ## :sparkles: Related
 
  - [`node.cobol`](https://github.com/IonicaBizau/node.cobol#readme)—Node.js bridge for COBOL which allows you to run Node.js code from COBOL.
+ - [`fortran`](https://github.com/IonicaBizau/node-fortran)—Fortran bridge for Node.js which allows you to run Fortran code from Node.js.
+ - [`node.fortran`](https://github.com/IonicaBizau/node.fortran#readme)—Execute Node.js in your Fortran programs.
 
 
 
