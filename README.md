@@ -124,7 +124,7 @@ Runs COBOL code from Node.JS side.
  - `stdeout` (Stream): An optional stdout stream used to pipe data to the stdin stream of the COBOL process.
  - `remove` (Boolean): Should the compiled executable be removed after running, default is true.
  - `precompiled` (Boolean): Run the precompiled executable instead of re-compiling, default is false.
- - **Function** `callback`: The callback function called with `err`, `stdout` and `stderr`.
+- **Function** `callback`: The callback function called with `err`, `stdout` and `stderr`.
 
 
 
