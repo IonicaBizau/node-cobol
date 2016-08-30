@@ -1,6 +1,6 @@
 {
   "name": "cobol",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "COBOL bridge for NodeJS which allows you to run COBOL code from NodeJS.",
   "main": "lib/index.js",
   "directories": {
