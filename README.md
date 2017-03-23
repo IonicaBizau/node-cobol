@@ -103,6 +103,15 @@ Cobol(function () {/*
 // => ------------
 ```
 
+## :question: Get Help
+
+There are few ways to get help:
+
+ 1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
+ 2. For bug reports and feature requests, open issues. :bug:
+ 3. For direct and quick help from me, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
+
 ## :memo: Documentation
 
 
@@ -139,6 +148,7 @@ This project seems to more popular than I expected. :smile: If you wrote or foun
  - [Sur GitHub, un projet relie Cobol et Node.js](http://www.lemondeinformatique.fr/actualites/lire-sur-github-un-projet-relie-cobol-et-nodejs-62116.html) ([LeMondeInformatique](http://lemondeinformatique.fr/), by [Maryse Gros avec IDG News Service](mailto:redac_weblmi@it-news-info.com))
  - [3 open source projects for modern COBOL development](http://opensource.com/life/15/10/open-source-cobol-development) ([OpenSource.com](http://opensource.com/), by [Joshua Allen Holm](http://opensource.com/users/holmja))
 
+
 ## :yum: How to contribute
 Have an idea? Found a bug? See [how to contribute][contributing].
 
@@ -171,6 +181,7 @@ If you are using this library in one of your projects, add it in this list. :spa
  - [`node.cobol`](https://github.com/IonicaBizau/node.cobol#readme)—Node.js bridge for COBOL which allows you to run Node.js code from COBOL.
  - [`fortran`](https://github.com/IonicaBizau/node-fortran)—Fortran bridge for Node.js which allows you to run Fortran code from Node.js.
  - [`node.fortran`](https://github.com/IonicaBizau/node.fortran#readme)—Execute Node.js in your Fortran programs.
+
 
 
 ## :scroll: License
