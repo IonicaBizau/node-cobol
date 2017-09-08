@@ -6,6 +6,7 @@ You can see below the API reference of this module.
 Runs COBOL code from Node.JS side.
 
 #### Params
+
 - **Function|String|Path** `input`: A function containing a comment with inline COBOL code, the cobol code itself or a path to a COBOL file.
 - **Object** `options`: An object containing the following fields:
  - `cwd` (String): Where the COBOL code will run (by default in the current working directory)
