@@ -6,17 +6,17 @@ var Cobol = require("../lib")
 // Get the input
 var input = process.argv[2];
 if (!input) {
-    return console.log("Usage: node others.js file.cobc additional arguments");
+    console.log("Usage: node others.js file.cobc additional arguments");
+} else {
+    // Run the input
+    Cobol(Abs(input), {
+        args: process.argv.slice(3)
+      , stdin: process.stdin
+      , stdout: process.stdout
+      , stderr: process.stderr
+    }, function (err) {
+        if (err) {
+            console.log(err);
+        }
+    });
 }
-
-// Run the input
-Cobol(Abs(input), {
-    args: process.argv.slice(3)
-  , stdin: process.stdin
-  , stdout: process.stdout
-  , stderr: process.stderr
-}, function (err) {
-    if (err) {
-        console.log(err);
-    }
-});
