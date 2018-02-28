@@ -16,9 +16,9 @@ Cobol(function () {/*
                    STOP RUN.
                    */}, {
                        compileargs:{
-                           free:true
-                        }
-                    }, function (err, data) {
+                           free: true
+                       }
+                   }, function (err, data) {
     console.log(err || data);
 });
 // => "Hello World"
