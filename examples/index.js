@@ -14,7 +14,11 @@ Cobol(function () {/*
                    DISPLAY "Hello world".
                    PROGRAM-DONE.
                    STOP RUN.
-                   */}, function (err, data) {
+                   */}, {
+                       compileargs:{
+                           free:true
+                        }
+                    }, function (err, data) {
     console.log(err || data);
 });
 // => "Hello World"
