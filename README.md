@@ -62,10 +62,11 @@ Of course, you can! It's production ready! If you ever did such a thing, [ping m
 ## Installation
 
 
-Currently GNUCobol is required. If you are using a debian-based distribution you can install it using:
+Currently [GnuCOBOL](https://www.gnu.org/software/gnucobol/) is required. If you are using a debian-based distribution you can install it using:
 
 ```sh
-$ sudo apt-get install open-cobol
+$ sudo apt install gnucobol
+# outdated systems: sudo apt-get install open-cobol
 ```
 
 
