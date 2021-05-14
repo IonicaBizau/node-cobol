@@ -65,7 +65,7 @@ Of course, you can! It's production ready! If you ever did such a thing, [ping m
 Currently [GnuCOBOL](https://www.gnu.org/software/gnucobol/) is required. If you are using a debian-based distribution you can install it using:
 
 ```sh
-$ sudo apt install gnucobol
+$ sudo apt-get install gnucobol
 # outdated systems: sudo apt-get install open-cobol
 ```
 

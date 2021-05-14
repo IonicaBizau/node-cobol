@@ -37,12 +37,15 @@
         "h2": "Installation"
       },
       {
-        "p": "Currently GNUCobol is required. If you are using a debian-based distribution you can install it using:"
+        "p": "Currently [GnuCOBOL](https://www.gnu.org/software/gnucobol/) is required. If you are using a debian-based distribution you can install it using:"
       },
       {
         "code": {
           "language": "sh",
-          "content": "$ sudo apt-get install open-cobol"
+          "content": [
+            "$ sudo apt-get install gnucobol",
+            "# outdated systems: sudo apt-get install open-cobol"
+          ]
         }
       },
       {
