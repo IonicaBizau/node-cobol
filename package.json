@@ -1,6 +1,6 @@
 {
   "name": "cobol",
-  "version": "2.0.3",
+  "version": "2.0.4",
   "description": "COBOL bridge for NodeJS which allows you to run COBOL code from NodeJS.",
   "main": "lib/index.js",
   "directories": {
@@ -112,6 +112,8 @@
     "menu/",
     "cli.js",
     "index.js",
+    "index.d.ts",
+    "package-lock.json",
     "bloggify.js",
     "bloggify.json",
     "bloggify/"
